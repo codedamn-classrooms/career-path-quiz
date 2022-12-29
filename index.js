@@ -1,10 +1,9 @@
-const str = "JavaScript is awesome";
+function getCount(str) {
+  let vowelsCount = 0;
 
-function reverseAString(str) {
-  // write your solution here
+  // enter your magical code here
 
-  // return your reversed string here
-  return;
+  return vowelsCount;
 }
 
-console.log(`Reversed string is: ${reverseAString(str)}`);
+console.log(getCount("abracadabra"));
