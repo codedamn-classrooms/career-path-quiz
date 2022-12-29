@@ -1,9 +1,6 @@
-function getCount(str) {
-  let vowelsCount = 0;
-
-  // enter your magical code here
-
-  return vowelsCount;
+function wave(str) {
+  // Your Code goes below
+  // return the array
 }
 
-console.log(getCount("abracadabra"));
+console.log(wave("hello"));
